@@ -56,7 +56,6 @@ int main()
 			if (bookshop.validID(id))
 			{
 				std::cout << "Confirm this sale? Y/N : ";
-				conf = std::getchar();
 				while (conf != 'n' && conf != 'y')
 				{
 					std::cout << "Invalid Input! Try again: ";
@@ -103,3 +102,6 @@ int main()
 		}
 	}
 }
+
+//still need to modify the input of a char to only allow a single char to be read.
+//small modifications to output
