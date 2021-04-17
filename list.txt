@@ -1,0 +1,12 @@
+Moby Dick
+19.99
+1
+Hamlet
+15.00
+2
+The Great Gatsby
+25.99
+3
+Twilight
+10.50
+4
