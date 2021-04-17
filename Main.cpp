@@ -10,7 +10,8 @@ void menu()
 
 int main()
 {
-	std::string path = "C:/Users/justw/Desktop/list.txt";
+	
+	std::string path = "C:/Users/Desktop/list.txt";
 	Bookshop bookshop = Bookshop(path);
 	int choice = 0;
 	int id = 0;
